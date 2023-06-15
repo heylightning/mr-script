@@ -4,4 +4,4 @@
 
 I automated the entire Microsoft Rewards system.
 
-*Note: Check requirements.ipynb for requirements, setup and working.*
+*Note: Check **requirements.ipynb** for requirements, setup and working.*
