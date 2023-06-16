@@ -12,7 +12,7 @@ I automated the entire Microsoft Rewards system.
 ` $ python main.py `
 
 ## Features
-* **idConfiguration.py** file is a script designed to facilitate the automation process of making Microsoft IDs from the *data.py* or any other file containing the IDs and their passwords. In my case, I have used data.py that I have mentioned in the *.gitignore* file. 
+* **idConfiguration.py** file is a script designed to facilitate the automation process of making Microsoft IDs from the *data.py* or any other file containing the IDs and their passwords. In my case, I have used *data.py* that I have mentioned in the *.gitignore* file. 
 * **lockConfiguration.py** file is a script developed to automate the checking process of Microsoft IDs for lock status. It provides a convenient and efficient way to determine whether a given ID is currently locked or not. This can be especially valuable in scenarios where a large number of IDs need to be monitored for potential lockouts.
 
 ### LICENSE
