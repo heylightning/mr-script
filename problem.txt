@@ -1,2 +1,22 @@
-Let's understand the problem.
+Problem Description:
+
+Microsoft Rewards is a popular program where users can earn points and redeem them for various rewards.
+However, the process of earning points can be tedious and time-consuming, requiring users to perform
+multiple searches on their browsers. Additionally, managing multiple IDs to maximize point accumulation 
+can be both cumbersome and potentially raise red flags with spam detection systems. Another challenge 
+users face is the risk of their Microsoft accounts being locked due to unusual activity, necessitating
+constant monitoring of the lock status.
+
+To address these issues, I have created an automation program. This program streamlines the 
+point-grinding process by automating searches, allowing users to earn points faster without the need 
+for manual intervention. Furthermore, it simplifies the creation of multiple IDs, removing the hassle of 
+repeatedly generating new accounts. However, it is important to exercise caution when using multiple IDs 
+to avoid triggering spam detection systems.
+
+The program also includes an automated lock status check, saving users from the time-consuming task of 
+individually verifying the lock status of each ID. By utilizing this automation tool, users can optimize 
+their Microsoft Rewards experience and efficiently accumulate points.
+
+To get started with the program, please refer to the README.md and requirements.ipynb files for 
+detailed instructions and requirements.
 
