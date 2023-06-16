@@ -1,2 +1,8 @@
 # Testing file
 prototype-testing.py
+
+# Data file
+data.py
+
+# IDE generated folder
+__pycache__/
