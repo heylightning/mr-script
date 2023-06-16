@@ -1,6 +1,6 @@
 # Description
 
-I automated the entire Microsoft Rewards system.
+I automated the Microsoft Rewards system.
 
 *Note: Check **requirements.ipynb** for requirements, setup and working. Head to **problem.txt** file to understand the flow.*
 
