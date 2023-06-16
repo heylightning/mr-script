@@ -20,7 +20,7 @@ I automated the entire Microsoft Rewards system.
 ## Flow of files: -
 1. First, run the **idConfiguration.py** file to create the IDs with respect to the data file.
 2. Second, run the **lockConfiguration.py** file to check the lock status of the ID.
-3. Lastly, run the **main.py** file to grind the points. (*You can alter the number of points to grind in the source file locally in your environment.*)
+3. Lastly, run the **main.py** file to grind the points. (*You can alter the number of points and the sleep() method, to grind and time stamp your checkpoints in the source file locally in your environment.*)
 4. Again, for proper and controlled flow, execute the **lockConfiguration.py** first to check the status of the ID and then execute the **main.py** file.
 
 ### LICENSE
