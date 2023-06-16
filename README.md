@@ -2,8 +2,7 @@
 
 I automated the entire Microsoft Rewards system.
 
-*Note: Check **requirements.ipynb** for requirements, setup and working.*
-*Note: Head to **problem.txt** file to understand the flow.*
+*Note: Check **requirements.ipynb** for requirements, setup and working. Head to **problem.txt** file to understand the flow.*
 
 ## Setup the **main.py** file: -
 * Install the requirements from the **requirements.ipynb** file.
