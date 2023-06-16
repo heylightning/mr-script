@@ -64,7 +64,7 @@ for mLoopIteration in range(1): # SET THE NUMBER OF IDs TO GRIND HERE
     pyautogui.hotkey('ctrl', 'a'); sleep(2); pyautogui.press('backspace')
     pyautogui.typewrite("".join(list(random.sample(list(rString), random.randrange(5, 10)))))
     pyautogui.press('enter'); sleep(3)
-print('\nGrinding sucessfull.\n')
+print('\nGrinding successful.\n')
 
 """
 Hint: MODEL NAME: MR-02
